@@ -1,0 +1,1 @@
+secondline in newFile's text 
